@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1034269677026",
+    "firebase_url": "https://udbhav-insights-17.firebaseio.com",
+    "project_id": "udbhav-insights-17",
+    "storage_bucket": "udbhav-insights-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034269677026:android:c509482ab88337b7",
+        "android_client_info": {
+          "package_name": "in.msritudbhav.udbhav2017insights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034269677026-7e1031utcruripej4tl8los3302aqb7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.msritudbhav.udbhav2017insights",
+            "certificate_hash": "6300fd32acb904d0f441e154bf4f8041bee4803d"
+          }
+        },
+        {
+          "client_id": "1034269677026-kt2cjgiti4t94f0m9f98etnvj7j4fv2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.msritudbhav.udbhav2017insights",
+            "certificate_hash": "02aea316e49258de7a56c35dde887310c403073c"
+          }
+        },
+        {
+          "client_id": "1034269677026-uimsvu5u1c85u38e5gqsnm1kfuj0ti1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.msritudbhav.udbhav2017insights",
+            "certificate_hash": "b4b0c7579dea4595469ce3c052e68b62686ed1bb"
+          }
+        },
+        {
+          "client_id": "1034269677026-ekfccin9oeurovheq9mp2nlcmdvt168d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVTZzCvDJZagiWb7eWTwqhnluwUCXeT6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034269677026-ekfccin9oeurovheq9mp2nlcmdvt168d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
